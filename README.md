@@ -19,6 +19,15 @@ Usage
 
 Here's a pic using the application and displaying the README it produces.
 
+
+![image](https://user-images.githubusercontent.com/80792502/120413745-bb578b80-c30d-11eb-9ea5-bf6ae0ff1654.png)
+
+
+![image](https://user-images.githubusercontent.com/80792502/120413874-ec37c080-c30d-11eb-95c1-a0cdbb900c2b.png)
+
+
+
+
 Contributing
 
 
