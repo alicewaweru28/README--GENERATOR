@@ -8,12 +8,29 @@ Description
 
 Create a command-line application that dynamically generates a professional README.md from a user's input.
 
+Technologies Used
+JavaScript
+Node.js
+NPM Inquirer Package
+NPM FS Package
+NPM Util Package
+Shields.io
+
+
 Installation
 
 Clone this README-Generator repo to your machine.
 Open the repo in your terminal.
 Run npm init
 Run npm install
+
+Usage
+Open README-Generator (now stored on your machine) in your terminal.
+Run node index.js
+You will be prompted to answer questions about your project. Answer each question. Markdown is supported.
+Your README.md file will write to the output folder.
+Copy or cut/paste newly generated README.md file to your project's repo. Any edits that you may have (for additional sections, or to remove sections), may be made to this file before uploading it as part of your project's repo.
+
 
 
 Run npm install to load required modules to your directory. Run node index.js to initialize the applicaiton. This will prompt you in the terminal with questions. Answer the questions and the README.md will be generated in the newReadme folder in the same parent directory as your index.js file.
