@@ -25,7 +25,7 @@ function promptUser() {
         type: "input",
         message: " email address?",
         name: "email"
-    }
+    },
     {
         type:"input",
         message: "contributors of the project?",
@@ -35,7 +35,7 @@ function promptUser() {
         type: "input",
         message: "Repository name?",
         name: "repo"
-    }
+    },
     { 
         type: "input",
         message: "Instructions on how to use you project?",
@@ -74,7 +74,7 @@ function promptUser() {
 
 function init() {
     try {
-      const answers = await promptUser();
+      const answers =  promptUser();
       const markDown = generateMarkdown(answers);
       onsole.log(markDown);
       console.log(answers);
