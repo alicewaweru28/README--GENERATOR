@@ -10,6 +10,10 @@ Create a command-line application that dynamically generates a professional READ
 
 Installation
 
+Clone this README-Generator repo to your machine.
+Open the repo in your terminal.
+Run npm init
+Run npm install
 
 
 Run npm install to load required modules to your directory. Run node index.js to initialize the applicaiton. This will prompt you in the terminal with questions. Answer the questions and the README.md will be generated in the newReadme folder in the same parent directory as your index.js file.
