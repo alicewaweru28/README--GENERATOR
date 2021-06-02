@@ -17,7 +17,7 @@ Run npm install to load required modules to your directory. Run node index.js to
 Usage
 
 
-Here's a video using the application and displaying the README it produces.
+Here's a pic using the application and displaying the README it produces.
 
 Contributing
 
